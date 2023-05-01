@@ -18,7 +18,7 @@
     <img align="center" alt="Springboot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia e programação, sempre buscando aprender mais e mais.
+Apaixonado por tecnologia e programação, sempre buscando aprender mais.
 
 ## Email para contato
 kaua.sacramento@gmail.com
