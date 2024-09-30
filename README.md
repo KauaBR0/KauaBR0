@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kauan</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
+[![](https://visitcount.itsvg.in/api?id=KauaBR0&icon=3&color=2)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
-contato: kaua.sacramento@gmail.com<br>linkedin: https://www.linkedin.com/in/kauaads/
+contato: kaua.sacramento@gmail.com
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kauasacramento_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kauaads) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kauã-Sacramento) 
 
 # 💻 Tech Stack:
@@ -13,8 +14,3 @@ contato: kaua.sacramento@gmail.com<br>linkedin: https://www.linkedin.com/in/kaua
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KauaBR0&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KauaBR0&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaBR0&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=KauaBR0&icon=3&color=2)](https://visitcount.itsvg.in)
-
