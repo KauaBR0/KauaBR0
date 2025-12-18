@@ -13,7 +13,7 @@ I value pragmatic engineering, clear code, and systems that are easy to evolve o
 
 ## Tech
 - **Backend:** Python (FastAPI), Node.js, TypeScript, Kotlin (Spring Boot)  
-- **Databases:** PostgreSQL, MySQL, Redis  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
 - **AI & Automation:** LLM integrations, RAG, LangChain, n8n  
 - **Quality:** TDD, automated testing, API documentation  
 
