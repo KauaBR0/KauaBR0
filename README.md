@@ -1,16 +1,22 @@
+# Hi, I’m Kauã 👋
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KauaBR0&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauaBR0&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ----------- | ----------- |
+I’m a **Software Engineer** with 5+ years of experience building and maintaining **backend systems and APIs** for production environments. My work focuses on **clean architecture, performance, and reliability**, with strong experience in **Python, Node.js, and modern backend stacks**.
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,javascript,typescript,python,nodejs,express,django,fastapi,react,angular,html,css,tailwind,n8n,docker,gitlab,azure,mongodb,postgres,sqlite,firebase,jest,linux,postman,figma,linkedin,gmail&perline=15" />
-  </a>
-  <br />
-</div>
+## What I work on
+- **Production-grade APIs** using Python (FastAPI) and Node.js  
+- **AI-powered backend systems**, including RAG pipelines and agent-based workflows  
+- **Database design and optimization** with PostgreSQL and Redis  
+- **Test-driven development (TDD)** to reduce bugs and improve maintainability  
+- **System modernization**, evolving legacy code into scalable architectures  
 
-##
+I value pragmatic engineering, clear code, and systems that are easy to evolve over time.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KauaBR0&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-</div>
+## Tech
+- **Backend:** Python (FastAPI), Node.js, TypeScript, Kotlin (Spring Boot)  
+- **Databases:** PostgreSQL, MySQL, Redis  
+- **AI & Automation:** LLM integrations, RAG, LangChain, n8n  
+- **Quality:** TDD, automated testing, API documentation  
+
+## Contact
+- **Email:** kaua.sacramento@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/kauaads
